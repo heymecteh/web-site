@@ -1,0 +1,18 @@
+body {
+    margin: 0; 
+    height: 100vh;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    background-color: #fff; 
+}
+
+.container {
+    width: 600px;
+    height: 750px;
+    background-color: rgb(34, 146, 216);
+    border-radius: 20px;
+}
+.login{
+    
+}
